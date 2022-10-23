@@ -11,7 +11,7 @@
     "dev": "shopify hydrogen dev",
     "build": "shopify hydrogen build",
     "preview": "shopify hydrogen preview",
-    "start": "node --enable-source-maps dist/server"
+    "start": "node --enable-source-maps dist/worker/index"
   },
   "devDependencies": {
     "@shopify/cli": "3.19.0",
