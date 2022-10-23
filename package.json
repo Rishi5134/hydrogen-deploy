@@ -11,7 +11,7 @@
     "dev": "shopify hydrogen dev",
     "build": "shopify hydrogen build",
     "preview": "shopify hydrogen preview",
-    "start": "node src/routes/App.server.jsx"
+    "start": "node src/App.server.jsx"
   },
   "devDependencies": {
     "@shopify/cli": "3.19.0",
